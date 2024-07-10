@@ -1,5 +1,7 @@
 # ✨ Works in Progress 🌈
 
+_[substack](https://defenderofthebasic.substack.com/) | [twitter](https://x.com/DefenderOfBasic)_
+
 this is an experiment in collaborative writing blogging. i'm trying to fill the space between:
 
 1. twitter, where I can post reflections & half thoughts that build upon others' thoughts, and others build on my own
