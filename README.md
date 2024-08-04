@@ -2,6 +2,8 @@
 
 _[substack](https://defenderofthebasic.substack.com/) | [twitter](https://x.com/DefenderOfBasic)_
 
+### notebook: https://defenderofbasic.github.io/works-in-progress/
+
 this is an experiment in collaborative writing blogging. i'm trying to fill the space between:
 
 1. twitter, where I can post reflections & half thoughts that build upon others' thoughts, and others build on my own
