@@ -9,17 +9,22 @@
 	
 ### Projects
 
-(1) communal science 
+#### (1) communal science 
 
 
-
-(2) "Into good faith"
+#### (2) "In good faith"
 
 Both as a performance piece, a book, a how to guide, and like a peer learning community
 
 See also "r/AmIArguingInBadFaith"
 
+"epistemic mobs" doing this together
 
-(3) Everyone's personal body of work
+a blog of people criticizing their in-group, privately (and publicly?)
 
-This is like the 
+#### (3) everyone's personal body of work
+
+This is like the "work-in-progress" thing I'm doing on github.
+
+I think this is related to "communal science"
+
