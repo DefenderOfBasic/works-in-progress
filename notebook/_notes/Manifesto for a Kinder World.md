@@ -12,3 +12,14 @@
 (1) communal science 
 
 
+
+(2) "Into good faith"
+
+Both as a performance piece, a book, a how to guide, and like a peer learning community
+
+See also "r/AmIArguingInBadFaith"
+
+
+(3) Everyone's personal body of work
+
+This is like the 

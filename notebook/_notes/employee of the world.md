@@ -19,8 +19,10 @@ https://x.com/DefenderOfBasic/status/1689997690841473024
 
 Seeing people doing the same work I'm doing, reframe that from "competitors" in a zero sum game to "coworkers" in the project of creating a kinder world. 
 
-- microsolidarity, and vibecamp?? https://www.microsolidarity.cc/
-	- strenghtening 
-- Better epistemology for the average person
+- strengthen local & global friendship networks  
+	- microsolidarity, and vibecamp?? https://www.microsolidarity.cc/
+	- visa & tpot in general
+- Better epistemology for all of us
 	- https://www.youtube.com/@Howtown
-	- Hank Green's series on showing his epistemic process 
+	- Hank Green's series on showing his epistemic process ("I have biden / weed questions")
+	- anyone helping the public engage more with the process of science https://github.com/DefenderOfBasic/communal-science/issues/2
