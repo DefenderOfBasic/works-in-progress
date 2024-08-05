@@ -17,4 +17,10 @@ https://x.com/DefenderOfBasic/status/1689997690841473024
 
 ### Who are my coworkers?
 
+Seeing people doing the same work I'm doing, reframe that from "competitors" in a zero sum game to "coworkers" in the project of creating a kinder world. 
+
 - microsolidarity, and vibecamp?? https://www.microsolidarity.cc/
+	- strenghtening 
+- Better epistemology for the average person
+	- https://www.youtube.com/@Howtown
+	- Hank Green's series on showing his epistemic process 
