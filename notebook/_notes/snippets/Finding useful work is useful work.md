@@ -42,5 +42,22 @@ Ok, that's fine. If there are things that I think are going to be *really* big h
 
 The problems I notice in society are often problems that *I* have. You hear this all the time with startup founders right? They were trying to do X, they realized it's impossibly because of ABC, so they dedicate their life to solving A. This is great, it lays the groundwork for solving a real problem that others can then build on, maybe someone else solves B, and C. And finally we get the almighty X.
 
-But 
+But this isn't the *only* way it can be. What if startup founder goes off to try and do X, and they just explain how *they* would solve A, *and* B, *and* C. Maybe their ideas work for A & C, but not for B. People steal it, try it, figure it out. Someone else fixes those problems, you can go back to working on X. 
+
+I think this is always true. Even for X. If someone else does X, consider this: why were you trying to do it? It's probably because you yearned for it, and it didn't exist. What would you have done if you found out it DID exist? You'd use it and keep going, right?
+
+All of our work is building blocks. If we zoom out, we're really not in competition. I mean, there *is* competition, there are limited resources, and if I don't know what I'm doing, someone is going to beat me to market with a better product. But I love this competition. I love playing this game. Without this game I end up with shitty products that don't work, AND i'm not allowed to make a better product to replace it. I want the competition. 
+
+But the people who beat me to market are really more like coworkers who are more competent at specific things. They care about finding the best solution. They care about solving the problem. We all do. 
+
+#### Related threads
+
+[August 6](https://x.com/DefenderOfBasic/status/1820775334062506243)
+
+> books are where knowledge goes to die human minds are currently the only thing that can reincarnate dead knowledge
+> 
+> Do you see what I mean? We're not competing. There is plenty of work to do. The smart people who create beautiful content need you & me. They can't fix these problems alone, the problems are way *way* too big.
+
+
+
 
