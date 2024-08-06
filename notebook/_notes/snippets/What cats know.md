@@ -1,5 +1,7 @@
 I have this whole series of tweets about my cat's experience of the world.
 
+respond to: https://x.com/latentjuice/status/1820586816774255075
+
 
 #### Appendix
 
