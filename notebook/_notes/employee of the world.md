@@ -26,3 +26,6 @@ Seeing people doing the same work I'm doing, reframe that from "competitors" in 
 	- https://www.youtube.com/@Howtown
 	- Hank Green's series on showing his epistemic process ("I have biden / weed questions")
 	- anyone helping the public engage more with the process of science https://github.com/DefenderOfBasic/communal-science/issues/2
+	- Nathan / Manifold Markets 
+- Self improvement 
+	- http://bewelltuned.com/ 
