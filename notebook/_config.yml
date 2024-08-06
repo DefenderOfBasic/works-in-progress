@@ -1,6 +1,6 @@
 title:               Defender's notebook
 include:             ['_pages']
-exclude:             ['_includes/notes_graph.json', '*.png','*.jpeg']
+exclude:             ['_includes/notes_graph.json', 'assets/*']
 # You may need to change the base URL depending on your deploy configuration.
 baseurl:             ''
 
