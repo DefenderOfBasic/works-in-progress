@@ -1,3 +1,6 @@
+---
+---
+
 > I think the hardest thing about contributing to society is NOT in the doing-of-the-work, it’s in the finding-of-the-work to do.
 > — [Making software by "cosmic pizza order"](https://omarshehata.substack.com/p/making-software-by-cosmic-pizza-order)
 

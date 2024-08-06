@@ -1,3 +1,6 @@
+---
+---
+
 - I'm not talking about kindness like, "being nice to each other". I'm talking about "despair won't feed the kids in africa, they can't eat your despair"
 	- if I'm driving on the wrong side of the wrong, and my friends are kind & nice and don't say anything, this will get me killed. 
 	- competence is kind. caring enough to say something is kind.

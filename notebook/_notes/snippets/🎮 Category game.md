@@ -1,3 +1,6 @@
+---
+---
+
 #enlightenment-game
 
 You see a list of emojis, one by one. You are told there are two categories of emojis, but NOT what the categories are. 
