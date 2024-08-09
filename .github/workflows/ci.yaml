@@ -34,7 +34,7 @@ jobs:
 
       - name: chmod
         run: chmod +x ./quartz/bootstrap-cli.mjs
-        working-directory: ./source
+        working-directory: ./quartz-notebook
 
       - name: Ensure Quartz builds, check bundle info
         run: npx quartz build --bundleInfo
