@@ -32,6 +32,10 @@ jobs:
       - run: npm install
         working-directory: ./quartz-notebook
 
+      - name: chmod
+        run: chmod +x ./quartz/bootstrap-cli.mjs
+        working-directory: ./source
+
       - name: Ensure Quartz builds, check bundle info
         run: npx quartz build --bundleInfo
         working-directory: ./quartz-notebook
