@@ -29,11 +29,6 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
 
-      - run: ls
-        
-      - run: ls
-        working-directory: ./quartz-notebook
-
       - run: npm install
         working-directory: ./quartz-notebook
 
