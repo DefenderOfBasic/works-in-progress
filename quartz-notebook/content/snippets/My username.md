@@ -6,7 +6,7 @@ I revealed this on May 28th, 2024. It was quite emotional:
 > 
 > you can singlehandedly increase the total beauty & joy in the world
 
-https://x.com/DefenderOfBasic/status/1795563521087795663
+Read the full thread here: https://x.com/DefenderOfBasic/status/1795563521087795663
 
 It's a reference to this CollegeHumor video, in which Brennan plays a knight who defends people with basic taste, the layperson, the everydayman: 
 
