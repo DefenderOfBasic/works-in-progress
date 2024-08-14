@@ -12,3 +12,15 @@ we can still find truth even though language is fuzzy
 
 https://whoarewenow.net/chapter-02/#handedscorel
 
+
+
+----
+
+>  _‘When I use a word,’ Humpty Dumpty said in rather a scornful tone, ‘it means just what I choose it to mean–neither more nor less.’_
+> 
+ _‘The question is,’ said Alice, ‘whether you can make words mean different things–that’s all.’_
+ >
+> _‘The question is,’ said Humpty Dumpty, ‘which is to be master–that’s all’_
+
+
+https://julienposture.substack.com/p/the-ai-doppelganger-experiment-part
