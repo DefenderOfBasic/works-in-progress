@@ -3,6 +3,9 @@
 
 > I get this fuzzy feeling everytime I see your posts now bc I KNOW ima learn something. Like a body ping of excitement except is me learning how to learn.
 
+> you bring such good collaborative ~ excitable vibe here! thank you! I feeeeeed off that energy. vampire, but for energy instead of blood🎇
+
+
 > i really enjoy your tweets
 > 
 > to the point where if i see your pfp in the "new tweets" pill thingy on twitter i instantly click it to see them
