@@ -1,13 +1,15 @@
 ---
 title: ✨ Works in Progress 🌈
 ---
+# What I'm currently working on
 
-This is an open notebook. 
+- Writing an "open source book about my vision for the future"? https://defenderofthebasic.substack.com/t/book
+	- this is a personal work of art
+	- it's also meant to (maybe) help me make money/start my writing career?
+	- in its best possible version this inspires people to improve things, or helps me find collaborators
+	- if it "fails", then I will have learned a lot about (1) why my attempts to improve the world aren't working (2) what is a better path for me to try, given my skillset & the current problems 
+- "I come in good faith", a handbook for how to argue effectively online: https://github.com/DefenderOfBasic/in-good-faith-handbook
 
-this is an experiment in collaborative writing blogging. i'm trying to fill the space between:
 
-1. twitter, where I can post reflections & half thoughts that build upon others' thoughts, and others build on my own
-2. substack, where I blog about my "finished" thoughts after figuring out stuff, summarizing the journey
-3. evergreen essays, where I continually update my beliefs
 
-Source code: https://github.com/DefenderofBasic/works-in-progress
+
