@@ -83,9 +83,12 @@ function extractNewReplies() {
    if (hitDiscoverMore) return;
    
    const tweetText = tweet.querySelector('[data-testid="tweetText"]');
-   const userInfo = tweet.querySelector('[data-testid="User-Name"]') || tweet.querySelector('a[href*="/"]');
+   const userInfo = tweet.querySelector('[data-testid="User-Name"]');
    const isReply = tweet.querySelector('[data-testid="reply"]') || tweet.textContent.includes('Replying to');
    const tweetLink = tweet.querySelector('a[href*="/status/"]').href;
+
+   const array = userInfo.querySelector('a[href*="/"]').href.split('/')
+  const extractedUsername = array[array.length - 1]
 
    if (tweetText && isReply) {
      let username = userInfo ? userInfo.textContent.trim().split('@')[0] : 'Unknown';
@@ -103,7 +106,7 @@ function extractNewReplies() {
        let text = tweetText.textContent.trim();
        text = text.replace(/"/g, '""');
        
-       allReplies.push({ username, text, url: tweetLink });
+       allReplies.push({ username: extractedUsername, text, url: tweetLink });
        newCount++;
      }
    }
