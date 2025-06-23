@@ -85,7 +85,8 @@ function extractNewReplies() {
    const tweetText = tweet.querySelector('[data-testid="tweetText"]');
    const userInfo = tweet.querySelector('[data-testid="User-Name"]') || tweet.querySelector('a[href*="/"]');
    const isReply = tweet.querySelector('[data-testid="reply"]') || tweet.textContent.includes('Replying to');
-   
+   const tweetLink = tweet.querySelector('a[href*="/status/"]').href;
+
    if (tweetText && isReply) {
      let username = userInfo ? userInfo.textContent.trim().split('@')[0] : 'Unknown';
      
@@ -102,7 +103,7 @@ function extractNewReplies() {
        let text = tweetText.textContent.trim();
        text = text.replace(/"/g, '""');
        
-       allReplies.push({ username, text });
+       allReplies.push({ username, text, url: tweetLink });
        newCount++;
      }
    }
@@ -112,9 +113,9 @@ function extractNewReplies() {
 }
 
 function createCSV() {
- let csv = 'username,text\n';
+ let csv = 'username,text,url\n';
  allReplies.forEach(reply => {
-   csv += `"${reply.username}","${reply.text}"\n`;
+   csv += `"${reply.username}","${reply.text}","${reply.url}"\n`;
  });
  return csv;
 }
@@ -144,7 +145,7 @@ function checkForCompletion() {
    lastScrollHeight = currentHeight;
  }
  
- if (noNewContentCount >= 10) {
+ if (noNewContentCount >= 3) {
    clearInterval(scrollInterval);
    clearInterval(extractInterval);
    
@@ -187,4 +188,5 @@ const extractInterval = setInterval(() => {
 }, 1000);
 
 console.log('⏳ Scrolling and extracting... Will stop at "Discover more" or when complete.');
+
 ```
